@@ -7,6 +7,7 @@ public class DetalleOrden {
     private String cantidad;
     private  double precio;
     private double total;
+    private double total1;
 
 
     public DetalleOrden() {
